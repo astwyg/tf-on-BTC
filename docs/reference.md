@@ -1,0 +1,1 @@
+[火币API文档](https://github.com/huobiapi/API_Docs/wiki/REST_introduction)
